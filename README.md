@@ -14,7 +14,7 @@ propsys.dll
 * PSFormatForDisplayAlloc  
 * PSGetPropertyKeyFromName  
   
-단기목표
+목표
 --
 prop.exe 의 기능 중에서 dump, set 의 기능을 구현한다.  
 dump : 파일이 가진 프로퍼티의 리스트를 출력. 키와 값을 출력한다.  
